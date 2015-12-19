@@ -13,11 +13,11 @@
 
 ### DynamoDB
 
- - [vogels](https://github.com/ryanfitz/vogels)
+ - [vogels](https://github.com/ryanfitz/vogels) - DynamoDB data mapper for node.js.
 
 ### SQS
 
- - [sqs-consumer](https://github.com/bbc/sqs-consumer)
- - [sqs](https://github.com/mafintosh/sqs)
+ - [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build SQS-based Node applications without the boilerplate.
+ - [sqs](https://github.com/mafintosh/sqs) - A message queue using Amazon Simple Queue Service.
 
 ### Lambda
